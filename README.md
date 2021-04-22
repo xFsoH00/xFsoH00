@@ -7,7 +7,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 <p>contato.thiagotrevisan@gmail.com</p>
@@ -32,7 +31,6 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xFsoH00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xFsoH00&theme=dark&show_icons=true&hide_border=true" />
 
-[Top Langs]: {teste}
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/thiaaagui
+
+
 [instagram]: https://instagram.com/thiaaagui
