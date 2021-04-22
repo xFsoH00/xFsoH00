@@ -34,10 +34,7 @@
   <summary>Recent GitHub Activity</summary>
 </details>
 
-<details>
-  <summary>GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xFsoH00&show_icons=true&hide_border=true" />
-</details>
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xFsoH00&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/thiaaagui
