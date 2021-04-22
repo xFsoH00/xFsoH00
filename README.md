@@ -30,10 +30,6 @@
 
 ---
 
-<details>
-  <summary>Recent GitHub Activity</summary>
-</details>
-
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xFsoH00&theme=dark&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
