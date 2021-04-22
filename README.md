@@ -31,7 +31,7 @@
 ---
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xFsoH00&theme=dark&show_icons=true&hide_border=true" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xFsoH00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/thiaaagui
 [instagram]: https://instagram.com/thiaaagui
