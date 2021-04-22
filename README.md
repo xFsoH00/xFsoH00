@@ -29,9 +29,10 @@
 <br />
 
 ---
-<img align="left" alt=" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xFsoH00)](https://github.com/anuraghazra/github-readme-stats)">
+<img align="left" alt="Top languages" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xFsoH00)]">
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xFsoH00&theme=dark&show_icons=true&hide_border=true" />
 
+[Top Langs]: {teste}
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/thiaaagui
 [instagram]: https://instagram.com/thiaaagui
