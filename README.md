@@ -1,7 +1,7 @@
 ## How's it going! My name is Thiago, I'm a Developer and sometimes a teacher!
 
 - I'm learning everything and focusing on flutter
-- I am currently 18 years old
+- I am currently 19 years old
 - Developing for Grafiame.
 
 
