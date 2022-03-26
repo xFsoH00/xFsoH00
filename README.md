@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xfsoh00&label=Profile%20views&color=0e75b6&style=flat" alt="xfsoh00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xfsoh00" alt="xfsoh00" /></a> </p>
-
 - 📫 How to reach me **contato.thiagotrevisan@gmail.com**
 
 - 👨‍💻 All of my projects are available at [thiagotm.dev](thiagotm.dev)
@@ -22,3 +20,5 @@
 <p><a href="https://www.buymeacoffee.com/xFsoH00"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xFsoH00" /></a><a href="https://ko-fi.com/xfsoh00"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="xfsoh00" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfsoh00&show_icons=true&locale=en&layout=compact" alt="xfsoh00" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xfsoh00&" alt="xfsoh00" /></p>
