@@ -1,5 +1,5 @@
 <h1 align="center">How's it going! My name is Thiago, I'm a Developer and sometimes a teacher!</h1>
-<h3 align="center">Fullstack developer for Grafiame</h3>
+<!-- <h3 align="center">Fullstack developer for Grafiame</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xfsoh00&label=Profile%20views&color=0e75b6&style=flat" alt="xfsoh00" /> </p>
 
