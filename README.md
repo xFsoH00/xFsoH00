@@ -24,11 +24,12 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/xFsoH00"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xFsoH00" /></a>
-
+  
 <br><br>
+<br><br>
+  
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xFsoH00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xFsoH00&show_icons=true&theme=dracula)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfsoh00&show_icons=true&locale=en&layout=compact" alt="xfsoh00" /></p>
 
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xfsoh00&" alt="xfsoh00" /></p>
