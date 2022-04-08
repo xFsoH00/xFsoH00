@@ -3,7 +3,7 @@
 
 - How to reach me **contato.thiagotrevisan@gmail.com**
 
-- All of my projects are available at [thiagotm.dev](thiagotm.dev)
+- All of my projects are available at [thiagotm.dev](https://thiagotm.dev)
 
 <br>
 
