@@ -30,6 +30,6 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfsoh00&show_icons=true&locale=en&layout=compact" alt="xfsoh00" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xfsoh00&show_icons=true&locale=en" alt="xfsoh00" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xfsoh00&show_icons=true&locale=en" alt="xfsoh00" /></p>
 </a>
 
