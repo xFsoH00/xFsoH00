@@ -27,9 +27,9 @@
 <br><br>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xFsoH00&repo=github-readme-stats" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfsoh00&show_icons=true&locale=en&layout=compact" alt="xfsoh00" /><
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xFsoH00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xfsoh00&" alt="xfsoh00" /></p>
 </a>
 
