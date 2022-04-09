@@ -26,8 +26,10 @@
 <br><br>
 <br><br>
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfsoh00&show_icons=true&locale=en&layout=compact" alt="xfsoh00" />
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xFsoH00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xFsoH00&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xFsoH00&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xFsoH00&repo=convoychat" />
+</a>
 
