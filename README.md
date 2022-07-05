@@ -3,8 +3,6 @@
 
 - How to reach me **contato.thiagotrevisan@gmail.com**
 
-- All of my projects are available at [thiagotm.dev](https://thiagotm.dev)
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
